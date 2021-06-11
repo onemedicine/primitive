@@ -1,4 +1,6 @@
 /*.png
 /*.svg
 /*.gif
-
+tmp/*
+vendor/*
+**/.idea/
